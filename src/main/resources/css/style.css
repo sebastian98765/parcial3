@@ -1,0 +1,21 @@
+.root-pane {
+    -fx-font-size: 13px;
+}
+
+.section-title {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+
+.detail-title {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.side-pane {
+    -fx-border-color: transparent #d0d0d0 transparent transparent;
+}
+
+.log-pane {
+    -fx-border-color: #d0d0d0 transparent transparent transparent;
+}
